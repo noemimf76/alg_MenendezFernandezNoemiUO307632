@@ -9,7 +9,7 @@ import java.util.List;
  * En su lugar, vamos a registrar las columnas y diagonales que ya están bajo ataque utilizando tres arreglos booleanos: 
  * uno para las columnas, otro para las diagonales principales (de arriba a abajo, izquierda a derecha) y otro para las diagonales secundarias (de arriba a abajo, derecha a izquierda).
  */
-public class NReinas {
+public class NReinas_UO {
     
     private List<List<String>> soluciones; // cada lista interna de Strings representa un tablero completo donde cada String es una fila.
 
